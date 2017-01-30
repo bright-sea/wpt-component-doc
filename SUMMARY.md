@@ -11,6 +11,7 @@
 * [APIs](technical-document/apis.md)
 * [WPT File Format](technical-document/wpt-file-format.md)
 * [XMLA Proxy](technical-document/xmla-proxy.md)
+* [Customize Language](technical-document/customize-language.md)
 
 ## Quick Start
 
