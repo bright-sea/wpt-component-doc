@@ -2,8 +2,11 @@
 
 ## Overview
 
-* [My Awesome API](README.md)
+* [WebPivotTable Component](README.md)
 
-## Methods
+## Technical Document
 
 * [Defining Methods](methods.md)
+
+## Quick Start
+
