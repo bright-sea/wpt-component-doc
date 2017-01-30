@@ -6,7 +6,7 @@
 
 ## Technical Document
 
-* [Defining Methods](methods.md)
+* [Integration Guide](technical-document/integration-guide.md)
 
 ## Quick Start
 
