@@ -7,6 +7,7 @@
 * [WebPivotTable Introduction](webpivottable-introduction.md)
 * [WebPivotTable Editions Introduction](webpivottable-editions-introduction.md)
 * [Quick Start Guide](quick-start-guide.md)
+* [WebPivotTable Integration Guide](webpivottable-integration-guide.md)
 
 ## Technical Document
 
