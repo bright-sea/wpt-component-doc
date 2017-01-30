@@ -4,6 +4,7 @@
 
 * [WebPivotTable Component](README.md)
 * [Pivot Table Introduction](pivot-table-introduction.md)
+* [WebPivotTable Introduction](webpivottable-introduction.md)
 
 ## Technical Document
 
