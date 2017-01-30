@@ -1,4 +1,8 @@
 # WebPivotTable Component
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+WebPivotTable Component is a pure javascript component which mimics all functionalities of Microsoft Excel Pivot Table but run totally inside browsers. It can be easily embedded into any web site or web application.
+
+
+
+
 
