@@ -10,6 +10,7 @@
 * [Customize Options](technical-document/customize-options.md)
 * [APIs](technical-document/apis.md)
 * [WPT File Format](technical-document/wpt-file-format.md)
+* [XMLA Proxy](technical-document/xmla-proxy.md)
 
 ## Quick Start
 
