@@ -14,6 +14,7 @@
 * [Customize Language](technical-document/customize-language.md)
 * [Load Data From Database](technical-document/load-data-from-database.md)
 * [Change History](technical-document/change-history.md)
+* [Samples and Demos](technical-document/samples-and-demos.md)
 
 ## Quick Start
 
