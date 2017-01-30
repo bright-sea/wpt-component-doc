@@ -13,6 +13,7 @@
 * [XMLA Proxy](technical-document/xmla-proxy.md)
 * [Customize Language](technical-document/customize-language.md)
 * [Load Data From Database](technical-document/load-data-from-database.md)
+* [Change History](technical-document/change-history.md)
 
 ## Quick Start
 
