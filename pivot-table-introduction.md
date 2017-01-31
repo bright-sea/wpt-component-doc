@@ -18,8 +18,7 @@ WebPivotTable is a new pivot table implementation leverage Web technologies. It 
 
 ### A Quick Pivot Table Example
 
-There are a lot of articles, tutorials, videos on Web to help people learn how to use pivot table. [Use Excel Pivot Tables to Organize Data](http://www.timeatlas.com/excel-pivot-tables/) is a good example demonstrating how to use Excel Pivot Table to analyse some election data. On [Demo Page](http
-://webpivottable.com/demo), there are demos demonstrating to use WebPivotTable to analyse the same data set more intuitively and more easily.
+There are a lot of articles, tutorials, videos on Web to help people learn how to use pivot table. [Use Excel Pivot Tables to Organize Data](http://www.timeatlas.com/excel-pivot-tables/) is a good example demonstrating how to use Excel Pivot Table to analyse some election data. On [Demo Page](http://webpivottable.com/demo), there are demos demonstrating to use WebPivotTable to analyse the same data set more intuitively and more easily.
 
 ### References
 
