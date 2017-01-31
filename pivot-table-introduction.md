@@ -14,11 +14,12 @@ In addition to Lotus Improv and Microsoft Excel, competing software programs suc
 
 Pivot functionality can also be found in other data visualization tools, including BI (business intelligence) packages. Excel Pivot Tables include the feature to directly query an OLAP (Online analytical processing) server for retrieving data instead of getting the data from an Excel spreadsheet. A pivot table is a simple client of an OLAP server. Almost all major BI vendors, like IBM, Microsoft, Oracle, SAP, SAS, Pentaho, MicroStrategy, provide their own pivot client tools to query their OLAP servers.
 
-WebPivotTable is a new pivot table implementation leverage Web technologies. It is web based and provide pivot functionalities both for spreadsheet data and OLAP servers. Please continue to read WebPivotTable Introduction for more details.
+WebPivotTable is a new pivot table implementation leverage Web technologies. It is web based and provide pivot functionalities both for spreadsheet data and OLAP servers. Please continue to read [WebPivotTable Introduction](/webpivottable-introduction.md) for more details.
 
 ### A Quick Pivot Table Example
 
-There are a lot of articles, tutorials, videos on Web to help people learn how to use pivot table. Use Excel Pivot Tables to Organize Data is a good example demonstrating how to use Excel Pivot Table to analyse some election data. On Demo Page, there are demos demonstrating to use WebPivotTable to analyse the same data set more intuitively and more easily.
+There are a lot of articles, tutorials, videos on Web to help people learn how to use pivot table. [Use Excel Pivot Tables to Organize Data](http://www.timeatlas.com/excel-pivot-tables/) is a good example demonstrating how to use Excel Pivot Table to analyse some election data. On [Demo Page](http
+://webpivottable.com/demo), there are demos demonstrating to use WebPivotTable to analyse the same data set more intuitively and more easily.
 
 ### References
 
