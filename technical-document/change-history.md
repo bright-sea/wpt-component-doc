@@ -1,4 +1,4 @@
-### V4.2.5
+### V4.2.5 Jan 20th, 2017
 * Show negative number with red color automatically
 * Fix OLAP datasource issue with empty cubes for a catalog
 * Fix localCompare not exists for null and number values
