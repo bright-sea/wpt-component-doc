@@ -1,10 +1,10 @@
 ## What's WebPivotTable?
 
-WebPivotTable is a new [pivot table](/pivot-table-introduction.md) implementation which mimics all functionalities of Microsoft Excel with intuitive user interface. It leverage latest Web technology and can be run inside any browsers on any devices(computers, terminals, tablets, smart phones, etc.).
+WebPivotTable is a new [pivot table](/pivot-table.md) implementation which mimics all functionalities of Microsoft Excel with intuitive user interface. It leverage latest Web technology and can be run inside any browsers on any devices(computers, terminals, tablets, smart phones, etc.).
 
 WebPivotTable can be used independently as a data analytic and reporting tool just like Excel Pivot Table. The core of WebPivotTable is a pure javascript component which can also be easily integrated into any other web applications or any web sites. There are plenty of customize options and APIs(Application Programming Interfaces) for developers to do the integration.
 
-_If you haven't taken a look at [Demo Page](/webpivottable.com/demo), we highly recommend you to give it a try. There are live demo applications for you to try all functionalities of WebPivotTable by yourself, and a lot of animation demos to help you quickly learn how to use it._
+_If you haven't taken a look at [Demo Page](http://webpivottable.com/demo/), we highly recommend you to give it a try. There are live demo applications for you to try all functionalities of WebPivotTable by yourself, and a lot of animation demos to help you quickly learn how to use it._
 
 ## Why WebPivotTable?
 
@@ -70,4 +70,4 @@ WebPivotTable free edition is totally free for any person or any company. WebPiv
 
 ## How to use WebPivotTable?
 
-There are lots of online demos and animation demos on [[Demo Page](/webpivottable-editions-introduction.md)](http://webpivottable.com/demo). To learn more details about different WebPivotTable editions, please read the document [WebPivotTable Editions Introduction](/webpivottable-editions-introduction.md). Follow [Quick Start Guide](/quick-start-guide.md) to install a free edition WebPivotTable application and follow [WebPivotTable Integration Guide](/webpivottable-integration-guide.md) to integrate a component edition into your own web application or web site.
+There are lots of online demos and animation demos on [Demo Page](http://webpivottable.com/demo). To learn more details about different WebPivotTable editions, please read the document [WebPivotTable Editions Introduction](/webpivottable-editions.md). Follow [Quick Start Guide](/quick-start-guide.md) to install a free edition WebPivotTable application and follow [Integration Guide](/webpivottable-integration-guide.md) to integrate a component edition into your own web application or web site.

@@ -14,7 +14,7 @@ In addition to Lotus Improv and Microsoft Excel, competing software programs suc
 
 Pivot functionality can also be found in other data visualization tools, including BI (business intelligence) packages. Excel Pivot Tables include the feature to directly query an OLAP (Online analytical processing) server for retrieving data instead of getting the data from an Excel spreadsheet. A pivot table is a simple client of an OLAP server. Almost all major BI vendors, like IBM, Microsoft, Oracle, SAP, SAS, Pentaho, MicroStrategy, provide their own pivot client tools to query their OLAP servers.
 
-WebPivotTable is a new pivot table implementation leverage Web technologies. It is web based and provide pivot functionalities both for spreadsheet data and OLAP servers. Please continue to read [WebPivotTable Introduction](/webpivottable-introduction.md) for more details.
+WebPivotTable is a new pivot table implementation leverage Web technologies. It is web based and provide pivot functionalities both for spreadsheet data and OLAP servers. Please continue to read [WebPivotTable Introduction](/web-pivot-table.md) for more details.
 
 ### A Quick Pivot Table Example
 
@@ -23,4 +23,5 @@ There are a lot of articles, tutorials, videos on Web to help people learn how t
 ### References
 
 [Wikipedia: Pivot Table](https://en.wikipedia.org/wiki/Pivot_table)
+
 [Bill Jelen, Michael Alexander: Pivot Table Data Crunching](http://www.mrexcel.com/2013books/pvttdc2013book.html)
