@@ -2,7 +2,7 @@
 
 ## Overview
 
-* [WebPivotTable Component](README.md)
+* [Introduction](README.md)
 * [Pivot Table Introduction](pivot-table-introduction.md)
 * [WebPivotTable Introduction](webpivottable-introduction.md)
 * [WebPivotTable Editions Introduction](webpivottable-editions-introduction.md)
@@ -20,6 +20,4 @@
 * [Load Data From Database](technical-document/load-data-from-database.md)
 * [Change History](technical-document/change-history.md)
 * [Samples and Demos](technical-document/samples-and-demos.md)
-
-## Quick Start
 
