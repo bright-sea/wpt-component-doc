@@ -23,7 +23,7 @@ Please follow [WebPivotTable Integration Guide](/webpivottable-integration-guide
 
 [Download Page](http://webpivottable.com/download/)
 
-[Technical Documents](/technical-document/customize-options.md)
+[Technical Documents](/technical-document.md)
 
 
 
