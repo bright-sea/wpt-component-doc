@@ -2,7 +2,7 @@ Currently, there are two editions of WebPivotTable: free edition and component e
 
 ## WebPivotTable Free Edition
 
-Free edition has all functionalities of WebPivotTable except the ability to be integrated into other web applications or web sites. It includes a NodeJS back end web server so that it can be used right after installation. The installation is quite easy and no technical background required. Follow Quick Start Guide, anybody can install a useful WebPivotTable application in few minutes.
+Free edition has all functionalities of WebPivotTable except the ability to be integrated into other web applications or web sites. It includes a [NodeJS](http://nodejs.org/) back end web server so that it can be used right after installation. The installation is quite easy and no technical background required. Follow Quick Start Guide, anybody can install a useful WebPivotTable application in few minutes.
 
 _WebPivotTable Free Edition is totally free to any person or any company, either for personal use or for commercial use. You can go to [Download Page](/webpivottable.com/download) to download a copy of this edition, install it on a personal computer or a cooperation server and use it right away. No license needed._
 
@@ -14,7 +14,7 @@ WebPivotTable free edition allows you to save your analysis in a WPT format file
 
 ## WebPivotTable Component Edition
 
-Component edition includes all functionalities of free edition, but add the support of customize options and APIs for developers to integrate it into any web application or web site. Follow WebPivotTable Integration Guide, a technician with little web development background can make a quick integration.
+Component edition includes all functionalities of free edition, but add the support of customize options and APIs for developers to integrate it into any web application or web site. Follow [WebPivotTable Integration Guide](/webpivottable-integration-guide.md), a technician with little web development background can make a quick integration.
 
 WebPivotTable component edition is not free and any commercial use of it should purchase a license. Before making a purchase, you can go to Download Page to request a trial version of this edition by filling up a simple form.
 

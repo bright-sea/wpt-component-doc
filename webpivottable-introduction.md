@@ -12,7 +12,7 @@ Among all pivot table implementations, Microsoft Excel is definitely the most po
 
 ### Web Based
 
-Almost all other pivot table implementations, like Excel, are delivered to you as a desktop software. You need purchase a license and install it on your computer. If you want to use it on other computers in your home or office, you need get another license and make another installation. When software upgrade to a new version, a new license and installation might be not unavoidable.
+Almost all other pivot table implementations, like Excel, are   delivered to you as a desktop software. You need purchase a license and install it on your computer. If you want to use it on other computers in your home or office, you need get another license and make another installation. When software upgrade to a new version, a new license and installation might be not unavoidable.
 
 WebPivotTable is Web based and totally run inside browsers. If you installed it on a server, anybody within your company or organization can access it through any browser on any devices (computers, terminals, mobile phones or tablets) anywhere (at home or at office or even on the road) anytime. Application upgrades and updates are all done on server side, end users need do nothing.
 
@@ -70,4 +70,4 @@ WebPivotTable free edition is totally free for any person or any company. WebPiv
 
 ## How to use WebPivotTable?
 
-There are lots of online demos and animation demos on Demo Page. To learn more details about different WebPivotTable editions, please read the document WebPivotTable Editions Introduction. Follow Quick Start Guide to install a free edition WebPivotTable application and follow WebPivotTable Integration Guide to integrate a component edition into your own web application or web site.
+There are lots of online demos and animation demos on [[Demo Page](/webpivottable-editions-introduction.md)](http://webpivottable.com/demo). To learn more details about different WebPivotTable editions, please read the document [WebPivotTable Editions Introduction](/webpivottable-editions-introduction.md). Follow [Quick Start Guide](/quick-start-guide.md) to install a free edition WebPivotTable application and follow [WebPivotTable Integration Guide](/webpivottable-integration-guide.md) to integrate a component edition into your own web application or web site.
