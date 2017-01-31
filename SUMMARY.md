@@ -3,9 +3,9 @@
 ## Overview
 
 * [Introduction](README.md)
-* [Pivot Table Introduction](pivot-table-introduction.md)
-* [WebPivotTable Introduction](webpivottable-introduction.md)
-* [WebPivotTable Editions Introduction](webpivottable-editions-introduction.md)
+  * [Pivot Table](pivot-table.md)
+  * [WebPivotTable](web-pivot-table.md)
+  * [WebPivotTable Editions](webpivottable-editions.md)
 * [Quick Start Guide](quick-start-guide.md)
 * [WebPivotTable Integration Guide](webpivottable-integration-guide.md)
 
