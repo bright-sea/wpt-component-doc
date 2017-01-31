@@ -1,13 +1,13 @@
 # Summary
 
-## Overview
+## WebPivotTable
 
 * [Introduction](README.md)
   * [Pivot Table](pivot-table.md)
   * [WebPivotTable](web-pivot-table.md)
   * [WebPivotTable Editions](webpivottable-editions.md)
 * [Quick Start Guide](quick-start-guide.md)
-* [WebPivotTable Integration Guide](webpivottable-integration-guide.md)
+* [Integration Guide](webpivottable-integration-guide.md)
 
 ## Technical Document
 
