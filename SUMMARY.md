@@ -8,7 +8,7 @@
   * [WebPivotTable Editions](webpivottable-editions.md)
 * [Quick Start Guide](quick-start-guide.md)
 * [Integration Guide](webpivottable-integration-guide.md)
-* Technical Document
+* [Technical Document](technical-document.md)
   * [Customize Options](customize-options.md)
   * [APIs](apis.md)
   * [WPT File Format](technical-document/wpt-file-format.md)
