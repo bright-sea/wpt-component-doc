@@ -10,7 +10,7 @@ If you had been convinced by live demo applications and would like to install a 
 
 _To install WebPivotTable free edition, you don't need to have a server machine. You can install it on your computer and use it just by yourself or by others who can connect to your computer. Of course, if you are in a cooperation network, either it is a local area network or an Intranet network, it would be better to install WebPivotTable on a server machine so that anybody within this network can use it all the time without interruption.
 _
-_WebPivotTable free edition is totally free to be used by any person or any company, either for personal use or for commercial use. You don't need to get a license from us and you can get answers from [Q&A Page](http://webpivottable.com/answers/) if you have any questions.
+_WebPivotTable free edition is totally free to be used by any person or any company, either for personal use or for commercial use.
 _
 WebPivotTable free edition depends on [NodeJS](https://nodejs.org/) to start an internal web server. You need have NodeJS installed on the computer or the server which you will install WebPivotTable on. Please go to [Install NodeJS](https://nodejs.org/en/download/) to download a proper NodeJS installer then run the installer following the instruction on the screen.
 
@@ -69,4 +69,4 @@ To access this installed WebPivotTable application from other computers within t
 
 ## What's Next?
 
-Installed a free edition WebPivotTable application is enough for many users. But you may need more, for example, you have a web site or web application already, you would like to embed WebPivotTable into it, or you don't want load source data from user interface every time, you would like to be able to load them from server or even from your Database system. All these requirements are addressed by WebPivotTable component edition. See [WebPivotTable Integration Guide](/webpivottable-integration-guide.md) for more details.
+Installed a free edition WebPivotTable application is enough for many users. But you may need more, for example, you have a web site or web application already, you would like to embed WebPivotTable into it, or you don't want load source data from user interface every time, you would like to be able to load them from server or even from your Database system. All these requirements are addressed by WebPivotTable component edition. See [Integration Guide](/webpivottable-integration-guide.md) for more details.
