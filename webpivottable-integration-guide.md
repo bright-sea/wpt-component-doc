@@ -108,5 +108,5 @@ After all necessary css and javascript files imported into page, you can create 
  
 ## Next?
 
-You can continue to read Technical Documents for all technical details of WebPivotTable, include all customize options and all APIs. If you have any questions, you can get answers at [Q&A Page](http://webpivottable.com/answers/).
+You can continue to read Technical Documents for all technical details of WebPivotTable, include all customize options and all APIs. If you have any questions, contact us at [Contact Page](http://webpivottable.com/contact/).
 
