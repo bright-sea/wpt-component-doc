@@ -1,18 +1,28 @@
 {
-    "plugins": [ "theme-api" ],
-    "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
+    "author": "Minghai Zhao <minghai.zhao@gmail.com>",
+    "description": "This is official document for WebPivotTable Component",
+    "generator": "site",
+    "links": {
+        "sidebar": {
+            "Open in New Window": "http://doc.webpivottable.com",
+            "WebPivotTable": "http://webpivottable.com"
         }
+    },
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["-sharing"],
+    "styles": {
+        "website": "styles/website.css"
     }
 }
