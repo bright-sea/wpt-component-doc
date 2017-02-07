@@ -18,7 +18,7 @@ _To check whether NodeJS had been installed successfully or not, [open a Command
 
 If NodeJS had been installed successfully, you can continue to install WebPivotTable free edition now:
 
-### On Windows
+* ### On Windows
 
 Run your downloaded WebPivotTable free edition windows installer, follow the instruction on the screen.
 
@@ -26,7 +26,7 @@ There will be two shortcut icons on the desktop of Windows, one will start the b
 
 _You can input "http://localhost:8002" into the address bar of any internet browser to open WebPivotTable as well._
 
-### On Linux/Unix/Mac OSX
+* ### On Linux/Unix/Mac OSX
 
 Unzip your downloaded WebPivotTable package under any directory, for example, unzip the whole package under "~/WebPivotTable" directory.
 

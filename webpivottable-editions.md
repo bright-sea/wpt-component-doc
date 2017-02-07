@@ -2,7 +2,7 @@ Currently, there are two editions of WebPivotTable: free edition and component e
 
 ## WebPivotTable Free Edition
 
-Free edition has all functionalities of WebPivotTable except the ability to be integrated into other web applications or web sites. It includes a [NodeJS](http://nodejs.org/) back end web server so that it can be used right after installation. The installation is quite easy and no technical background required. Follow Quick Start Guide, anybody can install a useful WebPivotTable application in few minutes.
+Free edition has all functionalities of WebPivotTable except the ability to be integrated into other web applications or web sites. It includes a [NodeJS](http://nodejs.org/) back end web server so that it can be used right after installation. The installation is quite easy and no technical background required. Follow [Quick Start Guide](/quick-start-guide.md), anybody can install a useful WebPivotTable application in few minutes.
 
 _WebPivotTable Free Edition is totally free to any person or any company, either for personal use or for commercial use. You can go to [Download Page](http://webpivottable.com/download) to download a copy of this edition, install it on a personal computer or a cooperation server and use it right away. No license needed._
 

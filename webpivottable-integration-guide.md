@@ -1,6 +1,6 @@
 ## Why you need to integrate WebPivotTable?
 
-Follow [Quick Start Guide](/quick-start-guide.md), you can quickly install an individual WebPivotTable application. It includes a NodeJS web server internally so that you can start to use it right away and it is totally free. But if you have any list below requirements, you need to think about WebPivotTable Integration:
+Follow [Quick Start Guide](/quick-start-guide.md), you can quickly install an indepedent WebPivotTable application. It includes a NodeJS web server internally so that you can start to use it right away and it is totally free. But if you have any list below requirements, you need to think about WebPivotTable Integration:
 
 * You want to embed WebPivotTable into your existing web application or website.
 * You want to embed WebPivotTable into your existing software product or SaaS solution.
@@ -108,5 +108,5 @@ After all necessary css and javascript files imported into page, you can create 
  
 ## Next?
 
-You can continue to read Technical Documents for all technical details of WebPivotTable, include all customize options and all APIs. If you have any questions, contact us at [Contact Page](http://webpivottable.com/contact/).
+You can continue to read Technical Documents for all technical details of WebPivotTable, include all customize options and all APIs. If you have any questions, please [contact us](http://webpivottable.com/contact/).
 
