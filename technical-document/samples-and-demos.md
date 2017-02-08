@@ -225,6 +225,6 @@ Code:
     
 ## Business Intelligence product to leverage WPT component
 
-<a href='http://demo.webpivottable.com/' target='_blank'>Bright BI</a>
+<a href='http://cdn-demo.webpivottable.com/' target='_blank'>Bright BI</a>
   
  
