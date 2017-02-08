@@ -4,7 +4,7 @@
     "generator": "site",
     "links": {
         "sidebar": {
-            "Open in New Window": "http://doc.webpivottable.com",
+            "Open in New Window": "http://cdn-doc.webpivottable.com",
             "WebPivotTable": "http://webpivottable.com"
         }
     },
