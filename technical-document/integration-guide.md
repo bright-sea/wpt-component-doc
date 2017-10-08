@@ -23,11 +23,11 @@ and javascript files into your page.
     <!-- Step 2 import third party javascript libraries-->    
     <script type="text/javascript" src="lib/filepicker/index.js"></script>
     <script type="text/javascript" src="lib/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="lib/highcharts/js/highcharts.js"></script>
-    <script type="text/javascript" src="lib/highcharts/js/highcharts-3d.js"></script>
-    <script type="text/javascript" src="lib/highcharts/js/highcharts-more.js"></script>
+    <script type="text/javascript" src="lib/highcharts/highcharts.js"></script>
+    <script type="text/javascript" src="lib/highcharts/highcharts-3d.js"></script>
+    <script type="text/javascript" src="lib/highcharts/highcharts-more.js"></script>
     <script type="text/javascript" src="lib/grouped_categories/grouped-categories.js"></script>
-    <script type="text/javascript" src="lib/custom_events/customEvents.js"></script>
+    <script type="text/javascript" src="lib/custom_events/js/customEvents.min.js"></script>
     <script type="text/javascript" src="lib/jszip/dist/jszip.min.js"></script>
     <script type="text/javascript" src="lib/js-xlsx/dist/xlsx.min.js"></script>
     <script type="text/javascript" src="lib/papaparse/papaparse.min.js"></script>
