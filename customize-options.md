@@ -38,7 +38,7 @@ Even after WebPivotTable object being created, you can still change options:
         locale: 'en',        // Current language locale
                              // it should be set to one of values in below availableLocals
 
-        availableLocales: ['en','zh','tr','es','pt','it'],
+        availableLocales: ['en','zh','de','tr','es','pt','it'],
                              // Selectable language locales for users to switch languages
                              // possible locales like: 'en','zh','tr', 'es','pt',‘fr','de','ar',
                              // 'ru','it', 'nl','el','he','hi','hu','sv','ko','ja'
@@ -212,25 +212,41 @@ Even after WebPivotTable object being created, you can still change options:
             callback: function(webPivotTable, sheet, rowItem, colItem, event){}
                                   // customize handler when click a cell to drill through
         },
- 
+
         customizeButtons: [       // Add Customize buttons on top bar
             //{
-            //    label: "Customize",
-            //    title: "A customize button to do something funncy",
+            //    label: "Refresh",
+            //    title: "Refresh WebPivotTable",
             //    click: function (evt){
+            //        //wpt.refreshAll();
             //        alert("haha, I am clicked!"+this);
             //    }
-            //}
+            //},
+            // {
+            //     type: "select",
+            //     value: "value2",
+            //     style: "width:200px;",
+            //     options: [{
+            //       label: "label1", value: "value1"
+            //     }, {
+            //       label: "label2", value: "value2"
+            //     }, {
+            //       label: "label3", value: "value3"
+            //     }],
+            //     change: function (value){
+            //        console.log("onchange triggered", value);
+            //     }
+            // }
         ],
 
         customizeExportGridToExcel: {  // If enabled, click export grid to excel will call server side service
                                        // Integration developers can provide serviceUrl to download exported file auto
                                        // or hook their own handler in callback
-            enabled: true,        // enable to call user customize export grid to excel
+            enabled: false,        // enable to call user customize export grid to excel
             serviceUrl: "",        // server side web service url which handle this export
                                    // htmlData parameter which include grid div html content will be passed in request
                                    // web service should stream exported excel file to front end for download
-            callback: function(webPivotTable, htmlData){ console.log("customize export called")}
+            callback: function(webPivotTable, htmlData){ }
                                    // if enabled is true and no serviceUrl provided,
                                    // then this callback should be provided
                                    // Integration developer can totally control how to make request and handle stream.
@@ -300,26 +316,67 @@ Even after WebPivotTable object being created, you can still change options:
         },
 
         report: {                  // Default options for each new report
-            title: {
-                enabled: true,
-                align: 'center',          // left, center, right
-                paddingTop: 10,
-                paddingRight: 10,
-                paddingBottom: 10,
-                paddingLeft: 10,
-                fontSize: 28,
-                fontWeight: "bold"
-            },
-            component: {
+            header: {
+                width: {
+                    value: 100,
+                    measure: "%"   // %, px,
+                },
+                height: {
+                    auto: true,
+                    value: 100,
+                    measure: "px"
+                },
+                padding: {
+                    top: 10,
+                    right: 10,
+                    bottom: 10,
+                    left: 10
+                },
                 title: {
                     enabled: true,
-                    align: 'left',            // left, center, right
-                    paddingTop: 10,
-                    paddingRight: 10,
-                    paddingBottom: 10,
-                    paddingLeft: 10,
+                    align: 'center',          // left, center, right
+                    margin: {
+                        top: 10,
+                        right: 10,
+                        bottom: 10,
+                        left: 10
+                    },
+                    fontSize: 28,
+                    fontWeight: "bold"
+                }
+
+            },
+
+            component: {
+                width: {
+                    value: 50,
+                    measure: "%"   // %, px,
+                },
+                height: {
+                    auto: true,
+                    value: 300,
+                    measure: "px"
+                },
+                title: {
+                    enabled: true,
+                    align: 'center',            // left, center, right
+                    margin: {
+                        top: 10,
+                        right: 10,
+                        bottom: 10,
+                        left: 10
+                    },
                     fontSize: 24,
                     fontWeight: "bold"
+                },
+                content:{
+                    align: 'center',            // left, center, right
+                    margin: {
+                        top: 10,
+                        right: 10,
+                        bottom: 10,
+                        left: 10
+                    }
                 }
             }
         },
@@ -346,11 +403,13 @@ Even after WebPivotTable object being created, you can still change options:
                 rowHeaderWidth: 200,
                 cellWidth: 100,
                 cellHeight: 25,
-                theme: 'wpt-default'
+                theme: 'wpt-default',
+                noFixedColumns: 0
             },
             chart:{
                 width: 500,
                 height: 300,
+                combined: true,
 
                 high:{
                     theme: 'default', //default, grid, gray, skies, drak-blue, drak-green
@@ -390,7 +449,12 @@ Even after WebPivotTable object being created, you can still change options:
                     },
                     plotOptions: {
                         series:{
-                            stacking: null //null, 'normal', 'percent'
+                            stacking: null, //null, 'normal', 'percent'
+                            dataLabels: {
+                                enabled: false,
+                                align:'center',  // left, center, right
+                                rotation:0    // 0 -- 360
+                            }
                         }
                     },
                     xAxis: {
