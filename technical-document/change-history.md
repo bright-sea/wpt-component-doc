@@ -1,4 +1,16 @@
-### V4.2.5 Jan 20th, 2017
+### V4.4 Oct 8th, 2017
+* Fixed drill through issue for OLAP mode
+* Fixed horizontal scroll issue for too many fixed columns. 
+* Fixed hidden OLAP dimension/hierarcy/level/measure issue. 
+* Add support of drill through to show rows with not null value only
+* Fix measures order not keeping by Hierarachize function issue for OLAP
+* Add VisualTotals to sum parents total as filtered children for OLAP
+* Add noFixedColumns gridOption to fix hortizontal scroll issue
+* Fix same id issue of copied charts in report
+* Add dataLabels chartOptions to show/hide data labels on chart
+* Add more control types in customizeButtons, like Select
+
+### V4.3 March 14th, 2017
 * Show negative number with red color automatically
 * Fix OLAP datasource issue with empty cubes for a catalog
 * Fix localCompare not exists for null and number values
@@ -9,6 +21,9 @@
 * Add showEmptyAsZero option for pivot grid 
 * Fix startsWith not support by IE issue
 * Add customizeExportGridToExcel option for server side exporting
+* Add label in pivotData tree to save calculation of grid and charts
+* Fix OLAP MDX generation issue for filters
+* Fix OLAP negative value red color issue
 
 
 ### V4.2 May 28th, 2016
@@ -411,3 +426,4 @@
 * Implement basic functions of pivot controls & pivot grid, all based on 
   [dojo](http://dojotoolkit.org/) and 
   [dgrid](https://github.com/SitePen/dgrid) widget.
+
